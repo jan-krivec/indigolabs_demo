@@ -362,8 +362,8 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# Skip measurements.txt file
-Data/measurements.txt
-
 # Add the data folder
 !Data/
+
+# Skip measurements.txt file
+Data/measurements.txt
